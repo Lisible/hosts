@@ -1,0 +1,15 @@
+# Static table lookup for hostnames.
+# See hosts(5) for details.
+127.0.0.1	localhost
+::1		localhost
+127.0.1.1	<HOSTNAME>.localdomain <HOSTNAME>
+
+0.0.0.0 twitter.com
+0.0.0.0 messenger.com
+0.0.0.0 discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 news.google.com
+0.0.0.0 google.com
+0.0.0.0 reddit.com
+0.0.0.0 facebook.com
+0.0.0.0 steampowered.com
