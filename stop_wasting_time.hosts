@@ -5,14 +5,23 @@
 127.0.1.1	<HOSTNAME>.localdomain <HOSTNAME>
 
 0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
 0.0.0.0 messenger.com
+0.0.0.0 www.messenger.com
 0.0.0.0 discord.com
+0.0.0.0 www.discord.com
 0.0.0.0 discordapp.com
+0.0.0.0 www.discordapp.com
 0.0.0.0 news.google.com
+0.0.0.0 www.google.com
 0.0.0.0 google.com
+0.0.0.0 www.reddit.com
 0.0.0.0 reddit.com
+0.0.0.0 www.facebook.com
 0.0.0.0 facebook.com
+0.0.0.0 www.steampowered.com
 0.0.0.0 steampowered.com
+0.0.0.0 www.youtube.com
 0.0.0.0 youtube.com
 0.0.0.0 news.ycombinator.com
 0.0.0.0 music.youtube.com
